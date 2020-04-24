@@ -15,12 +15,12 @@
   "author": "Sivadass",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.1",
-    "prop-types": "^15.5.10",
-    "react": "^16.0.0",
-    "react-custom-scrollbars": "^4.1.1",
-    "react-dom": "^16.0.0",
-    "react-transition-group": "^1.1.2"
+    "axios": "0.19.2",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-custom-scrollbars": "4.2.1",
+    "react-dom": "16.13.1",
+    "react-transition-group": "^4.3.0"
   },
   "devDependencies": {
     "autoprefixer": "^8.6.2",
